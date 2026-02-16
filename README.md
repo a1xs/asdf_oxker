@@ -3,7 +3,7 @@
 # asdf-oxker
 
 
-asdf plugin for lazyssh
+asdf plugin for oxker
 
 
 ## Install plugin
