@@ -9,9 +9,14 @@ https://github.com/mrjackwills/oxker
 ```bash
 asdf plugin add oxker https://github.com/a1xs/asdf_oxker
 ```
+#  Install app
 
-## Install app
+## Install latest version
+```bash
+asdf install oxker latest
+```
 
+## Install specific version
 ```bash
 asdf install oxker 0.12.0
 ```
