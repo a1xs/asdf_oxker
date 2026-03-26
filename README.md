@@ -1,10 +1,7 @@
-# asdf-oxker
+# asdf-oxker plugin for the  [asdf version manager](https://asdf-vm.com/)
 
-# asdf-oxker
-
-
-asdf plugin for oxker
-
+A simple tui to view & control docker containers 
+https://github.com/mrjackwills/oxker
 
 ## Install plugin
 
