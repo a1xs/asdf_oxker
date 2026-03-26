@@ -10,7 +10,7 @@ asdf plugin for oxker
 
 
 ```bash
-asdf plugin add oxker https://github.com/a1xs/asdf-oxker
+asdf plugin add oxker https://github.com/a1xs/asdf_oxker
 ```
 
 ## Install app
